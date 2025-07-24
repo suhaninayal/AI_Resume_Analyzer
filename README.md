@@ -1,4 +1,4 @@
-# SmartResume - AI Resume Assistant 🚀
+# SmartResume - AI Resume Assistant 
 
 <div align="center">
 
